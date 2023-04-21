@@ -1,0 +1,66 @@
+.logo {
+  border: 5px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-bottom: 3%;
+}
+.nav{
+  text-align: center;
+  margin-bottom:;
+ 
+  }
+.navlink {
+  font-family: arial;
+  color: black;
+  border: 2px solid black;
+  background-color: gray;
+  padding-left: 3%;
+  padding-right:3%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  font-size: 125%;
+  
+}
+body{
+  background-color: gray;
+  background-image: url("https://iili.io/HOfs6Gf.jpg​");
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-family: arial;
+  font-size: 75px;
+  border: 5px solid black;
+  text-align: center;
+  background-color: gray;
+  
+}
+
+  .logofoot{
+  width:10%;
+  height:10%;
+}
+
+footer{
+  padding: 15px;
+}
+.phone, .address, .email, .copy {
+  font-size: 18px;
+  color: white;
+  padding: 2%;
+  text-decoration: underline;
+}
+.slideshow{
+  padding: 177.78% 0 0 0;
+  position: relative;
+}
+iframe{
+  position: absolute;
+  top:0;
+  left:10%;
+  width: 80%;
+  height: 80%;
+
+}
